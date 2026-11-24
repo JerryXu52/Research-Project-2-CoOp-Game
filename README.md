@@ -1,5 +1,7 @@
 # Out of Frame — Research Project 2 Proposal
 
+**English** | [中文](README.zh-CN.md)
+
 **Team:** Jerry Xu & TongLin
 **Engine:** Unity (2D, C#)
 **Category:** Go somewhere unfamiliar. This is our first full game built in Unity.
